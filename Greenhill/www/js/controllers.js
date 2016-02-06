@@ -26,11 +26,15 @@ angular.module('greenhill.controllers', [])
 
   })
   // Store Controller
-  .controller('StoreCtrl', function ($scope, $state) {
+  .controller('CartCtrl', function ($scope, $state) {
 
   })
   // KidsCorner Controller
   .controller('KidsCornerCtrl', function ($scope, $state) {
+
+  })
+  // MarkMiller Controller
+  .controller('MarkMillerCtrl', function ($scope, $state) {
 
   })
   // Login Controller

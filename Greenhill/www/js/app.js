@@ -75,18 +75,27 @@ angular.module('greenhill', ['ionic', 'greenhill.controllers'])
         }
       }
     })
-
-    .state('app.store', {
-      url: '/store',
+    .state('app.MarkMiller', {
+      url: '/MarkMiller',
       views: {
         'menuContent': {
-          templateUrl: 'templates/store.html',
-          controller: 'StoreCtrl'
+          templateUrl: 'templates/MarkMiller.html',
+          controller: 'MarkMillerCtrl'
+        }
+      }
+    })
+
+    .state('app.cart', {
+      url: '/cart',
+      views: {
+        'menuContent': {
+          templateUrl: 'templates/cart.html',
+          controller: 'CartCtrl'
         }
       }
     })
     .state('app.kids-corner', {
-      url: '/store',
+      url: '/kids-corner',
       views: {
         'menuContent': {
           templateUrl: 'templates/kids-corner.html',
@@ -96,5 +105,5 @@ angular.module('greenhill', ['ionic', 'greenhill.controllers'])
     })
 
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/app/profile');
+  $urlRouterProvider.otherwise('/app/login');
 });

@@ -22,6 +22,11 @@
 .avatar3{
   width:100px;
 }
+.avatar4{
+width:100%;
+height:200px;
+
+}
 
 .map{
   width: 1000px;
@@ -40,6 +45,16 @@
   font-family: Verdana;
   color:#2D5368;
 }
+.fontID2 {
+  font-size:20px ;
+  color:#2D5368;
+}
+.fontID3 {
+	font-family: Verdana;
+	color:#2D5368;
+	position: relative;
+}
+
 #usernameFont{
   font-family: Verdana;
   color: white;
@@ -68,5 +83,23 @@
 
 .artPiece{
 	width: 50%;
+}
 
+.artPiece2{
+	width: 50%;
+	position: relative;
+	top: -100px;
+}
+
+.item{
+  background-color: white !important;
+  color : #2D5368 !important;
+}
+
+.color2 {
+  color : #2D5368 !important;
+}
+.custom-bluebar{
+  color : white !important;
+  background-color: rgba(45, 83, 104, 0.5) !important;
 }
