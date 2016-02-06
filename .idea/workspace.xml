@@ -3,12 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6e1b379c-3c0e-4da2-8353-41021b1ff52a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/ionic.project" afterPath="$PROJECT_DIR$/Greenhill/ionic.project" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/css/style.css" afterPath="$PROJECT_DIR$/Greenhill/www/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/js/app.js" afterPath="$PROJECT_DIR$/Greenhill/www/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/templates/MarkMiller.html" afterPath="$PROJECT_DIR$/Greenhill/www/templates/MarkMiller.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/templates/art.html" afterPath="$PROJECT_DIR$/Greenhill/www/templates/art.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/templates/login.html" afterPath="$PROJECT_DIR$/Greenhill/www/templates/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/templates/artists.html" afterPath="$PROJECT_DIR$/Greenhill/www/templates/artists.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/templates/home.html" afterPath="$PROJECT_DIR$/Greenhill/www/templates/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/templates/profile.html" afterPath="$PROJECT_DIR$/Greenhill/www/templates/profile.html" />
     </list>
     <ignored path="GreenhillHackathon.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,10 +37,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7045929">
+            <state vertical-scroll-proportion="-28.125">
               <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="11" />
               <folding />
             </state>
@@ -62,12 +60,24 @@
       <file leaf-file-name="profile.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/profile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.5416667">
-              <caret line="135" column="36" selection-start-line="135" selection-start-column="36" selection-end-line="135" selection-end-column="36" />
+            <state vertical-scroll-proportion="-19.916666">
+              <caret line="166" column="29" selection-start-line="166" selection-start-column="29" selection-end-line="166" selection-end-column="41" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="art.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/art.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6419624">
+              <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+              <folding>
+                <marker date="1454739807000" expanded="true" signature="2722:2960" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -83,21 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="artists.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/artists.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Greenhill/www/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-36.791668">
-              <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+              <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -148,14 +148,14 @@
         <option value="$PROJECT_DIR$/Greenhill/www/templates/kids-corner.html" />
         <option value="$PROJECT_DIR$/Greenhill/www/css/style.css" />
         <option value="$PROJECT_DIR$/Greenhill/www/templates/menu.html" />
-        <option value="$PROJECT_DIR$/Greenhill/www/templates/profile.html" />
         <option value="$PROJECT_DIR$/Greenhill/www/templates/home.html" />
         <option value="$PROJECT_DIR$/Greenhill/www/js/controllers.js" />
-        <option value="$PROJECT_DIR$/Greenhill/www/templates/art.html" />
         <option value="$PROJECT_DIR$/Greenhill/www/templates/MarkMiller.html" />
         <option value="$PROJECT_DIR$/Greenhill/www/templates/artists.html" />
         <option value="$PROJECT_DIR$/Greenhill/www/js/app.js" />
         <option value="$PROJECT_DIR$/Greenhill/www/templates/login.html" />
+        <option value="$PROJECT_DIR$/Greenhill/www/templates/profile.html" />
+        <option value="$PROJECT_DIR$/Greenhill/www/templates/art.html" />
       </list>
     </option>
   </component>
@@ -240,50 +240,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GreenhillHackathon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GreenhillHackathon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Greenhill" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GreenhillHackathon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GreenhillHackathon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Greenhill" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -484,16 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/art.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5194807">
-          <caret line="88" column="2" selection-start-line="88" selection-start-column="2" selection-end-line="88" selection-end-column="2" />
-          <folding>
-            <marker date="1454737704000" expanded="true" signature="2616:2852" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/MarkMiller.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.125">
@@ -518,30 +464,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.5416667">
-          <caret line="135" column="36" selection-start-line="135" selection-start-column="36" selection-end-line="135" selection-end-column="36" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Greenhill/www/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Greenhill/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625">
-          <caret line="9" column="99" selection-start-line="9" selection-start-column="99" selection-end-line="9" selection-end-column="99" />
           <folding />
         </state>
       </provider>
@@ -573,16 +499,46 @@
     <entry file="file://$PROJECT_DIR$/Greenhill/www/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-36.791668">
-          <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+          <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7045929">
+        <state vertical-scroll-proportion="-28.125">
           <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Greenhill/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="9" column="99" selection-start-line="9" selection-start-column="99" selection-end-line="9" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.916666">
+          <caret line="166" column="29" selection-start-line="166" selection-start-column="29" selection-end-line="166" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/art.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6419624">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+          <folding>
+            <marker date="1454739807000" expanded="true" signature="2722:2960" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
