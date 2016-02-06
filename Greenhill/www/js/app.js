@@ -75,12 +75,12 @@ angular.module('greenhill', ['ionic', 'greenhill.controllers'])
     }
   })
 
-  .state('app.art', {
-      url: '/art',
+  .state('app.shop', {
+      url: '/shop',
       views: {
         'menuContent': {
-          templateUrl: 'templates/art.html',
-          controller: 'ArtCtrl'
+          templateUrl: 'templates/shop.html',
+          controller: 'ShopCtrl'
         }
       }
     })
