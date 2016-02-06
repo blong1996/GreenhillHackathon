@@ -139,7 +139,9 @@ padding-bottom: 50%;
 margin-bottom: 10px;
 }  
 .img1{  
-	background-image: url("/img/AfricanLion.jpeg");
+	background-image: url("/img/Art.jpg"); 
+	background-repeat: no-repeat;  
+	background-origin: padding-box; 
 }
 .scavengerText{  
 font-family: Verdana;  

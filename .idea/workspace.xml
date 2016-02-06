@@ -2,16 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e1b379c-3c0e-4da2-8353-41021b1ff52a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Greenhill/www/img/AfricanLion.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/2d-cover.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/2d-cover.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/2d-maincover.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/2d-maincover.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/2d1.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/2d1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/2d2.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/2d2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/2d3.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/2d3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/2d4.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/2d4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/Books&amp;Paper-cover.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/Books&amp;Paper-cover.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/Books&amp;Paper1.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/Books&amp;Paper1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/Books&amp;Paper2.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/Books&amp;Paper2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/Books&amp;Paper3.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/Books&amp;Paper3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/Books&amp;Paper4.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/Books&amp;Paper4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/Books&amp;paper-maincover.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/Books&amp;paper-maincover.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/Objects-maincover.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/Objects-maincover.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/object-fiber1.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/object-fiber1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/object-fiber2.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/object-fiber2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-clay-maincover.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-clay-maincover.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-clay1.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-clay1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-clay2.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-clay2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-clay3.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-clay3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-clay4.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-clay4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-claycover.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-claycover.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-glass-maincover.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-glass-maincover.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-glass1.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-glass1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-glass2.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-glass2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-glass3.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-glass3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-glass4.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-glass4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-glasscover.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-glasscover.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-metal1.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-metal1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-metalcover.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-metalcover.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-wood1.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-wood1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-wood2.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-wood2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-wood3.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-wood3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-woodcover.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/objects-woodcover.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/wearable-cover.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/wearable-cover.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/wearable1.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/wearable1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/wearable2.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/wearable2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/wearable3.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/wearable3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/img/theshop/wearable4.jpg" afterPath="$PROJECT_DIR$/Greenhill/www/img/theshop/wearable4.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/css/style.css" afterPath="$PROJECT_DIR$/Greenhill/www/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/js/app.js" afterPath="$PROJECT_DIR$/Greenhill/www/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/js/controllers.js" afterPath="$PROJECT_DIR$/Greenhill/www/js/controllers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/templates/MarkMiller.html" afterPath="$PROJECT_DIR$/Greenhill/www/templates/MarkMiller.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/templates/home.html" afterPath="$PROJECT_DIR$/Greenhill/www/templates/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/templates/kids-corner.html" afterPath="$PROJECT_DIR$/Greenhill/www/templates/kids-corner.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/templates/menu.html" afterPath="$PROJECT_DIR$/Greenhill/www/templates/menu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/templates/scavenger.html" afterPath="$PROJECT_DIR$/Greenhill/www/templates/scavenger.html" />
     </list>
     <ignored path="GreenhillHackathon.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,8 +116,8 @@
       <file leaf-file-name="profile.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/profile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.62460566">
-              <caret line="42" column="30" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.7402734">
+              <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
               <folding>
                 <element signature="n#style#0;n#i#0;n#button#0;n#ion-nav-buttons#0;n#ion-view#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
@@ -103,9 +132,9 @@
         <entry file="file://$PROJECT_DIR$/Greenhill/www/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-8.843137">
-              <caret line="128" column="13" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
+              <caret line="132" column="11" selection-start-line="132" selection-start-column="11" selection-end-line="132" selection-end-column="11" />
               <folding>
-                <marker date="1454800260000" expanded="true" signature="1710:1862" placeholder="{...}" />
+                <marker date="1454801316000" expanded="true" signature="1710:1862" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -167,7 +196,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1303" />
+    <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -386,10 +415,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1303" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1326053" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0895208" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -601,9 +630,9 @@
     <entry file="file://$PROJECT_DIR$/Greenhill/www/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.843137">
-          <caret line="128" column="13" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
+          <caret line="132" column="11" selection-start-line="132" selection-start-column="11" selection-end-line="132" selection-end-column="11" />
           <folding>
-            <marker date="1454800260000" expanded="true" signature="1710:1862" placeholder="{...}" />
+            <marker date="1454801316000" expanded="true" signature="1710:1862" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -646,8 +675,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/profile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62460566">
-          <caret line="42" column="30" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.7402734">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
           <folding>
             <element signature="n#style#0;n#i#0;n#button#0;n#ion-nav-buttons#0;n#ion-view#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
