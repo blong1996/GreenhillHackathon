@@ -32,32 +32,64 @@ angular.module('starter', ['ionic', 'starter.controllers'])
     controller: 'AppCtrl'
   })
 
-  .state('app.search', {
-    url: '/search',
+    .state('app.profile', {
+      url: '/profile',
+      views: {
+        'menuContent': {
+          templateUrl: 'templates/profile.html',
+          controller: 'ProfileCtrl'
+        }
+      }
+    })
+
+  .state('app.home', {
+    url: '/home',
     views: {
       'menuContent': {
-        templateUrl: 'templates/search.html'
+        templateUrl: 'templates/home.html',
+        controller: 'HomeCtrl'
       }
     }
   })
 
-  .state('app.browse', {
-      url: '/browse',
+  .state('app.art', {
+      url: '/art',
       views: {
         'menuContent': {
-          templateUrl: 'templates/browse.html'
+          templateUrl: 'templates/art.html',
+          controller: 'ArtCtrl'
         }
       }
     })
-    .state('app.playlists', {
-      url: '/playlists',
+    .state('app.artists', {
+      url: '/artists',
       views: {
         'menuContent': {
-          templateUrl: 'templates/playlists.html',
-          controller: 'PlaylistsCtrl'
+          templateUrl: 'templates/artists.html',
+          controller: 'ArtistsCtrl'
         }
       }
     })
+
+    .state('app.store', {
+      url: '/store',
+      views: {
+        'menuContent': {
+          templateUrl: 'templates/store.html',
+          controller: 'StoreCtrl'
+        }
+      }
+    })
+    .state('app.kids-corner', {
+      url: '/store',
+      views: {
+        'menuContent': {
+          templateUrl: 'templates/kids-corner.html',
+          controller: 'KidsCornerCtrl'
+        }
+      }
+    })
+
 
   .state('app.single', {
     url: '/playlists/:playlistId',
@@ -69,5 +101,5 @@ angular.module('starter', ['ionic', 'starter.controllers'])
     }
   });
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/app/playlists');
+  $urlRouterProvider.otherwise('/app/profile');
 });
