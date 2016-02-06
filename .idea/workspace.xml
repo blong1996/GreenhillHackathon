@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6e1b379c-3c0e-4da2-8353-41021b1ff52a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/css/style.css" afterPath="$PROJECT_DIR$/Greenhill/www/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/js/app.js" afterPath="$PROJECT_DIR$/Greenhill/www/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/js/controllers.js" afterPath="$PROJECT_DIR$/Greenhill/www/js/controllers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Greenhill/www/templates/kids-corner.html" afterPath="$PROJECT_DIR$/Greenhill/www/templates/kids-corner.html" />
     </list>
     <ignored path="GreenhillHackathon.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Greenhill/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19911504">
+            <state vertical-scroll-proportion="-5.625">
               <caret line="9" column="99" selection-start-line="9" selection-start-column="99" selection-end-line="9" selection-end-column="99" />
               <folding />
             </state>
@@ -66,25 +63,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="profile.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/profile.html">
+      <file leaf-file-name="new-post.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/new-post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.2083335">
-              <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.13274336">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scavenger.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/scavenger.html">
+      <file leaf-file-name="Settings.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/Settings.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -104,7 +97,7 @@
         <entry file="file://$PROJECT_DIR$/Greenhill/www/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-54.375">
-              <caret line="87" column="14" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="26" />
+              <caret line="99" column="1" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -155,6 +148,8 @@
         <option value="$PROJECT_DIR$/Greenhill/www/templates/Art-demo.html" />
         <option value="$PROJECT_DIR$/Greenhill/www/css/style.css" />
         <option value="$PROJECT_DIR$/Greenhill/www/js/app.js" />
+        <option value="$PROJECT_DIR$/Greenhill/www/templates/Settings.html" />
+        <option value="$PROJECT_DIR$/Greenhill/www/templates/new-post.html" />
       </list>
     </option>
   </component>
@@ -542,14 +537,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/events.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="28" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/profile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.2083335">
@@ -581,7 +568,7 @@
     <entry file="file://$PROJECT_DIR$/Greenhill/www/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-54.375">
-          <caret line="87" column="14" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="26" />
+          <caret line="99" column="1" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -612,8 +599,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Greenhill/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19911504">
+        <state vertical-scroll-proportion="-5.625">
           <caret line="9" column="99" selection-start-line="9" selection-start-column="99" selection-end-line="9" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="28" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/Settings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Greenhill/www/templates/new-post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13274336">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
