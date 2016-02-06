@@ -38,7 +38,7 @@
 
 .fontID{
   font-family: Verdana;
-  color:#02ACCF;
+  color:#2D5368;
 }
 #usernameFont{
   font-family: Verdana;
@@ -55,7 +55,7 @@
 }
 .custom-blue{
   color : white !important;
-  background-color:#02ACCF !important;
+  background-color:#2D5368 !important;
 }
 
 .liked-icon{
@@ -64,4 +64,9 @@
 
 .unliked-icon{
   background: url("../img/notclicked.png") no-repeat;
+}
+
+.artPiece{
+	width: 50%;
+
 }
