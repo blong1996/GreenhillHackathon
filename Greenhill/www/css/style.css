@@ -110,24 +110,36 @@ height:200px;
 .custom-bluebar{
   color : white !important;
   background-color: rgba(45, 83, 104, 0.5) !important;
-} 
-.setPieceLeft{ 
-border: 5px double white;  
-width: 100px; 
-height: 75px; 
-margin-left: 10%;  
-margin-right: 50px;  
-padding-top: 25%; 
-padding-bottom: 50%; 
-margin-bottom: 10px;
-} 
-.setPieceRight{ 
-border: 5px double white;    
-width: 100px; 
-height: 75px;
-margin-left: 5%; 
-margin-right: 10%; 
+}
+.setPieceLeft{
+border: 5px double white;
+width: 50%;
+height: 50%;
+position: relative;
+margin-right: 10px;
+margin-left: 5%;
 padding-top: 25%;
-padding-bottom: 50%; 
+padding-bottom: 50%;
 margin-bottom: 10px;
+}
+.setPieceRight{
+border: 5px double white;
+width: 50%;
+height: 50%;
+position: relative;
+margin-right: 5%;
+padding-top: 25%;
+padding-bottom: 50%;
+margin-bottom: 10px;
+} 
+#scavengerHunt{  
+font-family: Verdana;  
+font-size: 20px;
+color: #58FAF4;  
+}
+
+
+.home-page {
+  width: 70%;
+  margin: 0 auto;
 }

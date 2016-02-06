@@ -46,6 +46,24 @@ angular.module('greenhill', ['ionic', 'greenhill.controllers'])
         }
       }
     })
+    .state('app.settings', {
+      url: '/settings',
+      views: {
+        'menuContent': {
+          templateUrl: 'templates/Settings.html',
+          controller: 'SettingsCtrl'
+        }
+      }
+    })
+    .state('app.new-post', {
+      url: '/new-post',
+      views: {
+        'menuContent': {
+          templateUrl: 'templates/new-post.html',
+          controller: 'NewPostCtrl'
+        }
+      }
+    })
 
   .state('app.home', {
     url: '/home',

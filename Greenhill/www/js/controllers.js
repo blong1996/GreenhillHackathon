@@ -29,6 +29,14 @@ angular.module('greenhill.controllers', [])
   .controller('HomeCtrl', function ($scope, $state) {
   })
 
+  // Settings Controller
+  .controller('SettingsCtrl', function ($scope, $state) {
+  })
+
+  // NewPost Controller
+  .controller('NewPostCtrl', function ($scope, $state) {
+  })
+
   // Store Controller
   .controller('CartCtrl', function ($scope, $state) {
   })
