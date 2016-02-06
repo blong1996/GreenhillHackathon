@@ -66,6 +66,15 @@ angular.module('greenhill', ['ionic', 'greenhill.controllers'])
         }
       }
     })
+    .state('app.art-demo', {
+      url: '/art-demo',
+      views: {
+        'menuContent': {
+          templateUrl: 'templates/Art-demo.html',
+          controller: 'ArtDemoCtrl'
+        }
+      }
+    })
     .state('app.artists', {
       url: '/artists',
       views: {

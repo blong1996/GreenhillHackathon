@@ -13,38 +13,41 @@ angular.module('greenhill.controllers', [])
 
 
   })
-// Artists Controller
+  // Artists Controller
   .controller('ArtistsCtrl', function () {
   })
 
   // Art Controller
   .controller('ArtCtrl', function ($scope) {
   })
+  // ArtDemo Controller
+  .controller('ArtDemoCtrl', function ($scope, $state) {
+
+  })
 
   // Home Controller
   .controller('HomeCtrl', function ($scope, $state) {
-
   })
+
   // Store Controller
   .controller('CartCtrl', function ($scope, $state) {
-
   })
+
   // KidsCorner Controller
   .controller('KidsCornerCtrl', function ($scope, $state) {
-
   })
+
   // Events Controller
   .controller('EventsCtrl', function ($scope, $state) {
-
   })
+
   // Scavenger Controller
   .controller('ScavengerCtrl', function ($scope, $state) {
-
   })
   // MarkMiller Controller
   .controller('MarkMillerCtrl', function ($scope, $state) {
-
   })
+
   // Login Controller
   .controller('LoginCtrl', ['$scope', '$state',
     function ($scope, $state) {
