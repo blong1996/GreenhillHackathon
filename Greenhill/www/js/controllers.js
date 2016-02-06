@@ -33,6 +33,14 @@ angular.module('greenhill.controllers', [])
   .controller('KidsCornerCtrl', function ($scope, $state) {
 
   })
+  // Events Controller
+  .controller('EventsCtrl', function ($scope, $state) {
+
+  })
+  // Scavenger Controller
+  .controller('ScavengerCtrl', function ($scope, $state) {
+
+  })
   // MarkMiller Controller
   .controller('MarkMillerCtrl', function ($scope, $state) {
 

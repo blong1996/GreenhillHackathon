@@ -94,6 +94,24 @@ angular.module('greenhill', ['ionic', 'greenhill.controllers'])
         }
       }
     })
+    .state('app.events', {
+      url: '/events',
+      views: {
+        'menuContent': {
+          templateUrl: 'templates/events.html',
+          controller: 'EventsCtrl'
+        }
+      }
+    })
+    .state('app.scavenger', {
+      url: '/scavenger',
+      views: {
+        'menuContent': {
+          templateUrl: 'templates/scavenger.html',
+          controller: 'ScavengerCtrl'
+        }
+      }
+    })
     .state('app.kids-corner', {
       url: '/kids-corner',
       views: {
