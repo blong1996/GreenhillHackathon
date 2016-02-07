@@ -143,8 +143,6 @@ height:200px;
 .setPieceLeft{
 border: 5px double white;
 width: 50%;
-height: 50%;
-position: relative;
 margin-right: 10px;
 margin-left: 5%;
 margin-bottom: 10px;
@@ -161,14 +159,13 @@ padding-bottom: 50%;
 margin-bottom: 10px;
 }
 .img1{
-	background-image: url("/img/ScavengerIcon.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .img2{
 	background-image: url("/img/drawPad.jpg");
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: contain;
 }
 .img3{
 	background-image: url("/img/artquest2.png");
@@ -193,12 +190,23 @@ color: #610B38;
 }
 .cartBack{
   background-color: #58ACFA!important;
-} 
+}
 .cartLine{
-  background-color: #A9F5F2!important; 
+  background-color: #A9F5F2!important;
   font-family: Verdana;
 }
 .home-page {
   width: 70%;
+  margin: 0 auto;
+}
+.kidsStuff img{
+ height: 260px;
+  width: 47%;
+  border: 5px double white;
+  margin: 5px 5px 5px 5px;
+  padding-top: 0%;
+  padding-bottom: 0%;
+}
+.kidsStuff {
   margin: 0 auto;
 }
