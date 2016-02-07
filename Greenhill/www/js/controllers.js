@@ -258,11 +258,8 @@ angular.module('greenhill.controllers', [])
       }
     ];
 
-    $scope.clickedCategory = function(subcategories) {
-      $scope.subcategories = subcategories;
-    }
-    $scope.clickedSubCategory = function(products) {
-      $scope.products = products;
+    $scope.clickedCategory = function(category) {
+      $scope.cat = category;
     }
 
   })

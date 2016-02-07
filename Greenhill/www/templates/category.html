@@ -1,7 +1,13 @@
-<ion-view view-title="Shop">
+<ion-view view-title="{{cat}}">
   <ion-header-bar>
   </ion-header-bar>
   <ion-content>
 
+    <div ng-repeat="category in cat.subcategories" class= " fontID col col-100"
+    >
+      <img ng-click="clickedCategory('{{category}}')"  ui-sref="app.category" class="avatar2" src="{{category.url}}">
+      <div class="fontID col col-100">
+        <i>{{category.title}}</i>
+      </div>
   </ion-content>
 </ion-view>
