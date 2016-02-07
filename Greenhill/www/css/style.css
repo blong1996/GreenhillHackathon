@@ -34,9 +34,12 @@ height:200px;
 	position: relative;
 	top: -25px;
 } 
-.check{ 
-	padding-left: 25%; 
+ 
+ .check{  
 	color: #01DF01; 
+} 
+.xMark{  
+	color: #B40404; 
 }
 .map{
   width: 1000px;
@@ -139,9 +142,14 @@ padding-bottom: 50%;
 margin-bottom: 10px;
 }  
 .img1{  
-	background-image: url("/img/Art.jpg"); 
-	background-repeat: no-repeat;  
-	background-origin: padding-box; 
+	background-image: url("/img/ScavengerIcon.jpg"); 
+	background-repeat: no-repeat;    
+	background-size: cover;
+} 
+.img2{  
+	background-image: url("/img/drawPad.jpg"); 
+	background-repeat: no-repeat;    
+	background-size: 240px 420px contain;
 }
 .scavengerText{  
 font-family: Verdana;  

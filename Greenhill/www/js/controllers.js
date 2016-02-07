@@ -21,7 +21,7 @@ angular.module('greenhill.controllers', [])
   .controller('ShopCtrl', function ($scope) {
     $scope.categories = [
       { title: 'Jewelry + Wearables',
-        url:'img//theshop/jw-cover.jpg',
+        url:'img//theshop/wearable-cover.jpg',
         subcategories: [{
           title: 'Jewelry',
           url:'img//theshop/jewelry-cover.png',
@@ -258,6 +258,13 @@ angular.module('greenhill.controllers', [])
       }
     ];
 
+    $scope.clickedCategory = function(subcategories) {
+      $scope.subcategories = subcategories;
+    }
+    $scope.clickedSubCategory = function(products) {
+      $scope.products = products;
+    }
+
   })
   // ArtDemo Controller
   .controller('ArtDemoCtrl', function ($scope, $state) {
@@ -302,17 +309,17 @@ angular.module('greenhill.controllers', [])
     function ($scope, $state) {
 
       $scope.loginWithFacebook = function () {
-        $state.go('app.home');
+        $state.go('app.profile');
       };
 
       // hard login
       $scope.login = function () {
-        $state.go('app.home');
+        $state.go('app.profile');
       };
 
 
       $scope.register = function () {
-        $state.go('app.home');
+        $state.go('app.profile');
 
       };
       // registers new Firebase user

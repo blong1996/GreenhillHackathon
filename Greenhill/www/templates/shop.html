@@ -2,12 +2,22 @@
   <ion-header-bar>
   </ion-header-bar>
   <ion-content>
-	<div class="row fontID" >
-      <div class= " fontID col col-100" >
-        <img class="artPiece" src="/img/art-one.jpg">
-		<div class="fontID col col-100">
-			<i>Jewelry + Wearables</i>
-		</div>
+
+    <div ng-repeat="category in categories" class= " fontID col col-100"
+         >
+      <img ng-click="clickedCategory('{{category.subcategories}}')"  ui-sref="app.catagory" class="avatar2" src="{{category.url}}">
+      <div class="fontID col col-100">
+        <i>{{category.title}}</i>
+      </div>
+
+
+
+
+
+
+
+	<!--<div class="row fontID" >
+
       </div>
       <div class= " fontID col col-100">
 		<img class="artPiece" src="/img/art-two.jpg" align="right">
@@ -31,7 +41,7 @@
 		</div>
       </div>
     </div>
-	
+
 	<div class="row fontID">
       <div class= " fontID col col-100" >
         <img class="artPiece" src="/img/art-five.jpg">
@@ -45,6 +55,6 @@
 			<i>Gifts Under $50</i>
 		</div>
       </div>
-    </div>
+    </div>-->
   </ion-content>
 </ion-view>
