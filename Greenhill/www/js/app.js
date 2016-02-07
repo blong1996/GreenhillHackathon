@@ -4,7 +4,7 @@
 // 'greenhill' is the name of this angular module example (also set in a <body> attribute in index.html)
 // the 2nd parameter is an array of 'requires'
 // 'greenhill.controllers' is found in controllers.js
-angular.module('greenhill', ['ionic', 'greenhill.controllers'])
+angular.module('greenhill', ['ionic', 'ngCordova','greenhill.controllers'])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
@@ -36,6 +36,15 @@ angular.module('greenhill', ['ionic', 'greenhill.controllers'])
     templateUrl: 'templates/menu.html',
     controller: 'AppCtrl'
   })
+    .state('app.exhibition', {
+      url: '/exhibition',
+      views: {
+        'menuContent': {
+          templateUrl: 'templates/exhibition.html',
+          controller: 'ExhibitionCtrl'
+        }
+      }
+    })
 
     .state('app.profile', {
       url: '/profile',

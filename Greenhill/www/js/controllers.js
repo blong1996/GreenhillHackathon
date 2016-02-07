@@ -1,4 +1,4 @@
-angular.module('greenhill.controllers', [])
+angular.module('greenhill.controllers', [ 'ionic','ngCordova'])
 
 
   .controller('AppCtrl', function($scope, $ionicModal, $timeout) {
@@ -258,8 +258,8 @@ angular.module('greenhill.controllers', [])
       }
     ];
 
-    $scope.clickedCategory = function(category) {
-      $scope.cat = category;
+    $scope.clickedCategory = function(cat) {
+      $scope.cat = cat;
     }
 
   })
@@ -288,13 +288,27 @@ angular.module('greenhill.controllers', [])
   .controller('KidsCornerCtrl', function ($scope, $state) {
   })
 
+  // Exhibition Controller
+  .controller('ExhibitionCtrl', function ($scope, $state) {
+  })
+
   // Events Controller
   .controller('EventsCtrl', function ($scope, $state) {
   })
 
   // Scavenger Controller
-  .controller('ScavengerCtrl', function ($scope, $state) {
-  })
+  .controller('ScavengerCtrl', function ($scope , $cordovaBarcodeScanner) {
+    $scope.scanBarcode = function() {
+      $cordovaBarcodeScanner.scan().then(function (imageData) {
+        alert(imageData.text);
+        console.log("Barcode Format -> " + imageData.format);
+        console.log("Cancelled -> " + imageData.cancelled);
+      }, function (error) {
+        console.log("An error happened -> " + error);
+      });
+    };
+
+    })
 
 
   // MarkMiller Controller

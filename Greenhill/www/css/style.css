@@ -33,13 +33,13 @@ height:200px;
 	height: 30px;
 	position: relative;
 	top: -25px;
-} 
- 
- .check{  
-	color: #01DF01; 
-} 
-.xMark{  
-	color: #B40404; 
+}
+
+ .check{
+	color: #01DF01;
+}
+.xMark{
+	color: #B40404;
 }
 .map{
   width: 1000px;
@@ -47,6 +47,10 @@ height:200px;
 }
 .login{
   background: url("../img/parrot.png") no-repeat center center fixed ;
+  background-size: cover;
+}
+.artBuy{
+  background: url("../img/cart-image.jpg") no-repeat center center fixed ;
   background-size: cover;
 }
 .bc{
@@ -67,6 +71,12 @@ height:200px;
 	color:#2D5368;
 	position: relative;
 }
+.fontID4 {
+  font-family: Verdana;
+  color:#2D5368;
+  text-align: center;
+  margin: 0 auto;
+}
 
 #usernameFont{
   font-family: Verdana;
@@ -85,7 +95,10 @@ height:200px;
   color : white !important;
   background-color:#2D5368 !important;
 }
-
+.custom-green{
+  color : white !important;
+  background-color:#2EFE64 !important;
+}
 .liked-icon{
   background: url("../img/clicked.png") no-repeat;
 }
@@ -103,10 +116,16 @@ height:200px;
 	width: 50%;
 	position: relative;
 	top: -100px;
-} 
+}
 .artPiece3{
 	width: 50%;
 	height: 100px;
+}
+
+.artPiec6{
+	/*for Events page*/
+	width: 100%;
+	height: 50px;
 }
 
 .item{
@@ -128,9 +147,9 @@ height: 50%;
 position: relative;
 margin-right: 10px;
 margin-left: 5%;
-margin-bottom: 10px; 
-padding-bottom: 75%; 
-} 
+margin-bottom: 10px;
+padding-bottom: 75%;
+}
 .setPieceRight{
 border: 5px double white;
 width: 50%;
@@ -140,35 +159,41 @@ margin-right: 5%;
 padding-top: 25%;
 padding-bottom: 50%;
 margin-bottom: 10px;
-}  
-.img1{  
-	background-image: url("/img/ScavengerIcon.jpg"); 
-	background-repeat: no-repeat;    
-	background-size: cover;
-} 
-.img2{  
-	background-image: url("/img/drawPad.jpg"); 
-	background-repeat: no-repeat;    
-	background-size: cover;
-} 
-.img3{  
-	background-image: url("/img/drawPad.jpg"); 
-	background-repeat: no-repeat;    
-	background-size: cover;
-} 
-.img4{  
-	background-image: url("/img/drawPad.jpg"); 
-	background-repeat: no-repeat;    
+}
+.img1{
+	background-image: url("/img/ScavengerIcon.jpg");
+	background-repeat: no-repeat;
 	background-size: cover;
 }
-.scavengerText{  
-font-family: Verdana;  
-font-size: 100%;  
-color: black; 
- 
+.img2{
+	background-image: url("/img/drawPad.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
-
-
+.img3{
+	background-image: url("/img/artquest2.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.img4{
+	background-image: url("/img/artquest1.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.scavengerText{
+font-family: Verdana;
+font-size: 100%;
+color: black;
+}
+.cartDisplay{
+border: 5px solid green;
+font-family: Trebuchet MS;
+font-size: 300%;
+color: #610B38;
+}
+.cartBack{
+  background-color: #58ACFA!important;
+}
 .home-page {
   width: 70%;
   margin: 0 auto;
