@@ -94,33 +94,8 @@ angular.module('greenhill', ['ionic', 'ngCordova','greenhill.controllers'])
       }
     })
 
-    .state('app.category',{
-      url: '/shop/:category',
-      views: {
-        'menuContent': {
-          templateUrl: 'templates/category.html',
-          controller: 'ShopCtrl'
-        }
-      }
-    })
-    .state('app.subcategory',{
-      url: '/shop/:category/:subcategory',
-      views: {
-        'menuContent': {
-          templateUrl: 'templates/subcategory.html',
-          controller: 'ShopCtrl'
-        }
-      }
-    })
-    .state('app.product',{
-      url: '/shop/:category/:subcategory/:product',
-      views: {
-        'menuContent': {
-          templateUrl: 'templates/product.html',
-          controller: 'ShopCtrl'
-        }
-      }
-    })
+
+
     .state('app.art-demo', {
       url: '/art-demo',
       views: {

@@ -3,14 +3,11 @@
   </ion-header-bar>
   <ion-content>
 
-    <div ng-repeat="category in categories" class= " fontID col col-100"
-         >
-      <img ng-click="clickedCategory('{{category}}')"  ui-sref="app.category" class="avatar2" src="{{category.url}}">
-      <div class="fontID col col-100">
-        <i>{{category.title}}</i>
-      </div>
-
-
+    <div ng-repeat="category in categories" class= " row fontID col col-100">
+      <div  class = "fontID4" style="text-align: center">
+      <b>{{category.title}}</b>
+    </div>
+      <img  class="avatar2" src="{{category.url}}">
 </div>
 
 

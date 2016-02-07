@@ -259,7 +259,19 @@ angular.module('greenhill.controllers', [ 'ionic','ngCordova'])
     ];
 
     $scope.clickedCategory = function(cat) {
-      $scope.cat = cat;
+      switch (cat.title) {
+        case 'Jewelry + Wearables': {
+          console.log('test');
+          return 'app.jewelry-wearables';
+        }case '2-D': {
+
+      }case 'Objext' :{
+
+      }case 'Books + Paper': {
+
+      }
+      }
+
     }
 
   })

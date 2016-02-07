@@ -2,5 +2,49 @@
   <ion-header-bar>
   </ion-header-bar>
 	<ion-content>
+    <ion-view  padding ="true" view-title="New Post" >
+      <ion-content class>
+        <div >
+          <img ng-show="imgURI !== undefined" ng-src="{{imgURI}}">
+          <img ng-show="imgURI === undefined" ng-src="http://placehold.it/375x350">
+        </div>
+        <div id= "fontID" style="width: 65%; float:right">
+          <!-- <button class="button" ng-click="getPhoto()"> -->
+          <br>
+          <button class="button custom-blue">
+            Take Photo
+          </button>
+          <!-- <br>
+           <br>
+            <button class="button button-assertive"ng-click="getPhoto(pictureSource.PHOTOLIBRARY);">Photo Album</button>-->
+        </div>
+
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <ul class="list list-inset">
+          <label class="item item-input">
+            <textarea ng-model="caption"placeholder="Caption"></textarea>
+          </label>
+
+
+          <br>
+          <div class = "row fontID" style="" align = "center">
+            <button  class="button button-block custom-blue">Post
+            </button>
+          </div>
+          </ul>
+          <!--<button ng-click="takePicture();">Capture Photo</button> <br>
+            <button ng-click="capturePhotoEdit();">Capture Editable Photo</button> <br>
+            <button ng-click="getPhoto(pictureSource.PHOTOLIBRARY);">From Photo Library</button><br>
+            <button ng-click="getPhoto(pictureSource.SAVEDPHOTOALBUM);">From Photo Album</button><br>
+            <img ng-show="imgURI !== undefined" ng-src="{{imgURI}}">
+            <img ng-show="imgURI === undefined" ng-src="http://placehold.it/300x300">
+            <img style="display:none;width:60px;height:60px;" id="smallImage" src="" />
+            <img style="display:none;" id="largeImage" src="" />-->
+      </ion-content>
+      </ion-view>
 	</ion-content>
 </ion-view>
