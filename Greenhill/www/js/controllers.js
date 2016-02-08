@@ -111,7 +111,7 @@ angular.module('greenhill.controllers', [ 'ionic','ngCordova'])
         }]
       },
       { title: 'Objects',
-        url:'img//theshop/objects-maincover.jpg',
+        url:'img//theshop/objects-claycover.jpg',
         subcategories: [{
           title: 'Clay',
           url:'img//theshop/objects-claycover',
@@ -226,7 +226,7 @@ angular.module('greenhill.controllers', [ 'ionic','ngCordova'])
         ]
       },
       { title: 'Books + Paper',
-        url:'img//theshop/Books&paper-maincover.jpg',
+        url:'img//theshop/Books&paper-cover.jpg',
         subcategories: [{
           title: 'Books and Paper',
           url:'img//theshop/Books&Paper-cover.jpg',
